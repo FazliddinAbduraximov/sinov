@@ -4,3 +4,12 @@
     box-sizing: border-box;
     background-color: aqua;
 }
+
+body{
+    margin: 25px auto;
+}
+
+h1{
+    color: blue;
+    width: 100px;
+}
